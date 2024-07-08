@@ -56,7 +56,7 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="5bh-M2-d2Q">
-                        <barButtonItem key="rightBarButtonItem" title="Input" style="plain" id="JIT-7e-les">
+                        <barButtonItem key="rightBarButtonItem" title="Input" id="JIT-7e-les">
                             <connections>
                                 <action selector="inputButtonTapped:" destination="BYZ-38-t0r" id="Ovr-iK-a4n"/>
                             </connections>
