@@ -1,0 +1,15 @@
+{
+  "originHash" : "8f6e6f8fa9e58d6653623242e3509c6b948d16fba4e1f8404b0c0520d259a899",
+  "pins" : [
+    {
+      "identity" : "dogimages",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/akshaykumarios/DogImages",
+      "state" : {
+        "branch" : "main",
+        "revision" : "03e116258a8f30fbda806c905d2966fba9220eb4"
+      }
+    }
+  ],
+  "version" : 3
+}
